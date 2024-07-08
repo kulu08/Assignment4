@@ -7,7 +7,7 @@
 * 
 * Name:Kulpreet Singh Student  ID:160902235  Date: 6 July 2024
 *
-*  Online (vercel) Link: https://vercel.com/kulpreet-singhs-projects-8cdb233e/assigment4
+*  Online (vercel) Link: https://vercel.com/kulpreet-singhs-projects-8cdb233e/assignment4
 *
 ********************************************************************************/ 
 
